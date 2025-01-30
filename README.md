@@ -2,7 +2,9 @@
 # 💫 About Me:
 <br>Hey! I'm Arjun, a Computer Science graduate passionate about technology, software development, and problem-solving.<br><br>🔭 I’m currently working on Full Stack and Machine Learning.<br>👯 I’m looking to collaborate on Full Stack.<br>🌱 I’m currently learning Advanced Data Structures, AI/ML, and Technical Support Strategies.<br>💬 Ask me about Web Development, and Problem Solving<br>⚡ Fun fact I love competitive gaming and exploring new outdoor adventures!<br>
 
-
+<div align="center">
+  <img src="https://giphy.com/embed/kIGGOdvMaMjGE" width="480" height="270" />
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunbothra02) 
 
