@@ -27,4 +27,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arjunbothra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![GIF](https://media.giphy.com/media/kIGGOdvMaMjGE/giphy.gif)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Hm3rh1nMYe9BR20ThG/giphy.gif" width="400" height="270" />
+</div>
