@@ -1,9 +1,13 @@
-# Arjun Bothra
+<div align="center">
+  <img src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif" width="200" />
+</div>
+
+# Arjun Bothra <br>
 # 💫 About Me:
 <br>Hey! I'm Arjun, a Computer Science graduate, passionate about technology, software development, and problem-solving.<br><br>🔭 I’m currently working on Full Stack and Machine Learning.<br>👯 I’m looking to collaborate on Full Stack.<br>🌱 I’m currently learning Advanced Data Structures, AI/ML, and Technical Support Strategies.<br>💬 Ask me about Web Development, and Problem Solving<br>⚡ Fun fact I love competitive gaming and exploring new outdoor adventures!<br>
 
 
-![GIF](https://media.giphy.com/media/kIGGOdvMaMjGE/giphy.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunbothra02) 
@@ -23,3 +27,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arjunbothra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GIF](https://media.giphy.com/media/kIGGOdvMaMjGE/giphy.gif)
