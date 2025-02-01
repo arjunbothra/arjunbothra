@@ -1,6 +1,6 @@
 # Arjun Bothra
 # 💫 About Me:
-<br>Hey! I'm Arjun, a Computer Science graduate passionate about technology, software development, and problem-solving.<br><br>🔭 I’m currently working on Full Stack and Machine Learning.<br>👯 I’m looking to collaborate on Full Stack.<br>🌱 I’m currently learning Advanced Data Structures, AI/ML, and Technical Support Strategies.<br>💬 Ask me about Web Development, and Problem Solving<br>⚡ Fun fact I love competitive gaming and exploring new outdoor adventures!<br>
+<br>Hey! I'm Arjun, a Computer Science graduate, passionate about technology, software development, and problem-solving.<br><br>🔭 I’m currently working on Full Stack and Machine Learning.<br>👯 I’m looking to collaborate on Full Stack.<br>🌱 I’m currently learning Advanced Data Structures, AI/ML, and Technical Support Strategies.<br>💬 Ask me about Web Development, and Problem Solving<br>⚡ Fun fact I love competitive gaming and exploring new outdoor adventures!<br>
 
 
 ![GIF](https://media.giphy.com/media/kIGGOdvMaMjGE/giphy.gif)
